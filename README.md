@@ -42,9 +42,9 @@ We will study a selection of these in this class. Each application will be prece
 
 Your grade will be determined by the Written Homework, Midterm, and Exam, as follows
 
-H = score on Written Homework.  Lowest Homework will be dropped
-M = score on Midterm
-E = score on Final Exam
+* H = score on Written Homework.  Lowest Homework will be dropped
+* M = score on Midterm
+* E = score on Final Exam
 
 Final Grade = 0.15 * H + 0.35 * M + 0.50 * E
 
