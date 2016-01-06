@@ -6,7 +6,7 @@ The University of British Columbia -- Math 307 Section 202 -- Jan-Apr 2016
 * Instructor: Roger Donaldson
 * Email: rdonald@math.ubc.ca
 * Office Hours: Th 12:30-1:30pm in Math 238
-* Web: [Piazza sign-up](https://piazza.com/ubc.ca/winterterm22015/sisubcmath3072022015w261015)
+* Web: [Piazza sign-up](https://piazza.com/ubc.ca/winterterm22015/sisubcmath3072022015w261016)
 
 ## Textbook
 
