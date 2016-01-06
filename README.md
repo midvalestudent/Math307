@@ -16,6 +16,8 @@ If you would like to consult a book you may find these useful:
 * Linear Algebra and its Applications by Gilbert Strang
 * Elementary Linear Algebra with Applications by Howard A. Anton and Chris Rorres
 
+Help is available online for getting started in Matlab, Octave and Python.  If you are using Matlab or Octave, you may find this [help page on Matlab/Octave](http://www.yanivplan.com/matlaboctave-help) useful.
+
 ## Outline
 
 This course is organized around a collection of interesting applications.  Examples include:
