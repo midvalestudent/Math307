@@ -10,7 +10,7 @@ The University of British Columbia -- Math 307 Section 202 -- Jan-Apr 2016
 
 ## Textbook
 
-There is no required textbook for this course. Instead there is a set of typed notes designed for this course, which is available on the [course github site](https://github.com/midvalestudent/Math307JanApr2016).  You will also find the hand-written notes from the class lectures posted in the same place.  
+There is no required textbook for this course. Instead there is a set of typed notes designed for this course, which is available on the [course github site](https://github.com/midvalestudent/Math307JanApr2016).
 
 If you would like to consult a book you may find these useful:
 
