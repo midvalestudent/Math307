@@ -1,0 +1,41 @@
+function spectrogram(y,Fs,TW,M)
+
+% y is the sampled signal
+% Fs is the sampling frequency
+% TW is the window size in seconds
+% M is the number of windows
+
+% Calculate
+% N: the length of y
+% T: the time length of the signal
+% NW: the number of samples per window
+% NWmax: the number of frequencies to be plotted (1/4 of NW)
+% Omega: the vector of frequencies
+
+
+% Calculate 
+% Times: a vector containing the times for the centre of each window
+% C: a matrix containing the amplitudes for each window in its columns
+% First initialize them to be zero
+
+Times=zeros(1,M);
+C=zeros(NWmax,M);
+
+% Then use a for loop to fill in the values
+
+for i=1:M
+	jmin = %put the lower index for the ith window here
+	jmax = %put the upper index for the ith window here
+	Times(i) = %put the time corresponding to the centre of the ith window here
+	tildec = %compute the fft of the part of the signal between jmin and jmax
+	C(:,i) = %set the ith column to be the first NWmax absolute values of tildec
+end
+
+% the following commands make the plot
+
+pcolor(Times, Omega, C);
+shading interp;
+colormap(1-gray);
+
+end
+
