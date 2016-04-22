@@ -53,7 +53,7 @@ $$
 p_i \approx {\bf x}_i^T {\bf a}, \\
 q_i \approx {\bf x}_i^T {\bf b},
 $$
-and solve the two resulting least-squares problems for the unknown model parameter vectors ${\bf a}, {\bf b}$.  Note that matrix $X$ is not full-rank.  You must comment on the impact this has on least squares, as well as an appropriate fix, for full marks.
+and solve the two resulting least-squares problems for the unknown model parameter vectors ${\bf a}, {\bf b}$.  Suppose that matrix $X$ were not full-rank. Comment on how this would affect least-squares.
 
 Once you have model vectors ${\bf a}, {\bf b}$, determine the latitudes and longitudes they predict for each music sample, namely,
 $$
