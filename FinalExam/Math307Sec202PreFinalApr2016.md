@@ -30,7 +30,7 @@ This question is about comparing modeling using least-squares fitting to modelin
 
 ### Getting the data
 
-Visit [the Geographical Origin of Music dataset at the UCI data archive](https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music) and click on the [data folder link](https://archive.ics.uci.edu/ml/machine-learning-databases/00315/).  This link directs you to download a zip file.  Unpack the zip file and import the file ``default_features_1059_tracks.txt`` into your favourite programming environment.  (There is a second set of data in this zip archive -- you won't need it for this question.)
+Visit [the Geographical Origin of Music dataset at the UCI data archive](https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music) and click on the [data folder link](https://archive.ics.uci.edu/ml/machine-learning-databases/00315/).  This link directs you to download a zip file.  Unpack the zip file and import the file ``default_plus_chromatic_features_1059_tracks.txt`` into your favourite programming environment.  (There is a second set of data in this zip archive -- you won't need it for this question.)
 
 This is a CSV file having 1059 lines.  Each line represents a sample of music.  The first 68 entries in each line are 68-dimensional vectors representing musical features.  The last 2 entries are the latitude and longitude of the location of the music's origin.
 
@@ -53,7 +53,7 @@ $$
 p_i \approx {\bf x}_i^T {\bf a}, \\
 q_i \approx {\bf x}_i^T {\bf b},
 $$
-and solve the two resulting least-squares problems for the unknown model parameter vectors ${\bf a}, {\bf b}$.  Suppose that matrix $X$ were not full-rank. Comment on how this would affect least-squares.
+and solve the two resulting least-squares problems for the unknown model parameter vectors ${\bf a}, {\bf b}$.  Note that matrix $X$ is not full-rank. You must comment on the impact this has on least squares, as well as an appropriate fix, for full marks.
 
 Once you have model vectors ${\bf a}, {\bf b}$, determine the latitudes and longitudes they predict for each music sample, namely,
 $$
