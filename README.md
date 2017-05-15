@@ -2,7 +2,7 @@
 
 The University of British Columbia -- Math 307 Section 921 -- May-Jun 2017
 
-* Lectures:  M 2pm-3pm and T, W, Th 2pm-4pm in Leonard S. Klink Room 200
+* Lectures:  M 2pm-3pm and T, W, Th 2pm-4pm in Leonard S. Klink Room 201
 * Instructor: Roger Donaldson
 * Office hour: M 3pm-4pm Math Room 229A
 
