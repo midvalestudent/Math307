@@ -1,27 +1,32 @@
 # Applied Linear Algebra
 
-The University of British Columbia -- Math 307 Section 202 -- Jan-Apr 2016
+The University of British Columbia -- Math 307 Section 921 -- May-Jun 2017
 
-* Lectures:  T-Th 11am-12:30pm in Leonard S. Klink Room 200
+* Lectures:  M 2pm-3pm and T, W, Th 2pm-4pm in Leonard S. Klink Room 200
 * Instructor: Roger Donaldson
-* Email: rdonald@math.ubc.ca
-* Office Hours: Th 12:30-1:30pm in Math 238
-* Web: [Piazza sign-up](https://piazza.com/ubc.ca/winterterm22015/sisubcmath3072022015w261016)
+* Office hour: M 3pm-4pm Math Room 229A
 
 ## Textbook
 
-There is no required textbook for this course. Instead there is a set of typed notes designed for this course, which is available on the [course github site](https://github.com/midvalestudent/Math307JanApr2016).
+There is no required textbook for this course. Instead there is a set of typed notes designed for this course, which is available on the [course github site](https://github.com/midvalestudent/Math307).
 
 If you would like to consult a book you may find these useful:
 
 * Linear Algebra and its Applications by Gilbert Strang
 * Elementary Linear Algebra with Applications by Howard A. Anton and Chris Rorres
 
-Help is available online for getting started in Matlab, Octave and Python.  If you are using Matlab or Octave, you may find this [help page on Matlab/Octave](http://www.yanivplan.com/matlaboctave-help) useful.
+Help is available online for getting started in Matlab, Octave, Python and R.  If you are using Matlab or Octave, you may find this [help page on Matlab/Octave](http://www.yanivplan.com/matlaboctave-help) useful.
 
 ## Outline
 
-This course is organized around a collection of interesting applications.  Examples include:
+The course covers four core topics:
+
+* Linear equations
+* Subspaces
+* Orthogonality
+* Eigenvalues
+
+That said, this course is organized around a collection of applications.  Examples include:
 
 * Interpolation
 * Finite difference approximations
@@ -37,34 +42,18 @@ This course is organized around a collection of interesting applications.  Examp
 * Markov chains
 * Google PageRank
 
-We will study a selection of these in this class. Each application will be preceded by discussion of the relevant concepts from Linear Algebra. These will be partly review from your previous linear algebra course and partly new material. You will also learn how to do Linear Algebra on a computer using MATLAB or Python.
+We will study a selection of these applications in this class. Each application will include a discussion of the relevant concepts from linear algebra. These will be partly review from your previous linear algebra course and partly new material. You will do larger linear algebra calculations on a computer.
+
+## Computing Resources
+
+If you wish to use Python or R for computing, one option is the [JupyterHub](https://ubc.syzygy.ca) online computing environment.  Log in with your UBC CWL and start writing programs immediately: no prerequisites other than a supported web browser are required.
 
 ## Grading Scheme
 
-Your grade will be determined by the Written Homework, Midterm, and Exam, as follows
+Your grade will be determined by in-class quizzes, one midterm exam, and the final exam, as follows
 
-* H = score on Written Homework.  Lowest Homework will be dropped
-* M = score on Midterm
-* E = score on Final Exam
+* 20% in-class quizzes
+* 30% midterm
+* 50% final exam
 
-Final Grade = 0.15 * H + 0.35 * M + 0.50 * E
-
-The instructor reserves the right to revise or round off grades if the circumstances warrant.  Scaling of the raw grade may be required to ensure consistency from section to section and year to year.
-
-## Midterms & Final Exam
-
-There will be a final cumulative exam that will be held in April. There will be one 50-minute written midterm held in class. The midterm date is Tuesday 1 March.
-
-If a student misses a midterm, that student shall provide a formal documented excuse such as a doctor’s note within one week or a mark of zero (0) will be entered for that midterm. If you are to miss a midterm due to religious observance, two weeks written notice is required by the student. See the UBC full policy on this for more information. There will be NO make-up midterms. Any tests missed with legitimate reasons will have their final exam re-weighted
-
-## Assignments
-
-There will be weekly written homework assignments assigned in class.  The written homeworks are due at the beginning of class on their due dates.  Late homework will not be accepted, but the lowest homework grade will be dropped.
-
-## Extra help
-
-Drop-in Tutorials: There is a drop-in tutorial centre located on the third floor of LSK.  The AMS offers [tutoring services](http://tutoring.ams.ubc.ca/).
-
-## Cheating
-
-It is the student’s obligation to inform himself or herself of the applicable standards for academic honesty. Students must be aware that standards at the University of British Columbia may be different from those in secondary schools or at other institutions. If a student is in any doubt as to the standard of academic honesty in a particular course or assignment, then the student must consult with the instructor as soon as possible, and in no case should a student submit an assignment if the student is not clear on the relevant standard of academic honesty.
+Quizzes will be held in class twice per week.
