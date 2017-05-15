@@ -57,3 +57,7 @@ Your grade will be determined by in-class quizzes, one midterm exam, and the fin
 * 50% final exam
 
 Quizzes will be held in class twice per week.
+
+## Class Policy
+
+No portable electronic devices may be used during lectures.
