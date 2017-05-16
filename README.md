@@ -13,7 +13,7 @@ There is no required textbook for this course. Instead there is a set of typed n
 If you would like to consult a book you may find these useful:
 
 * [Introduction to Linear Algebra by Gilbert Strang](http://unipicsbooks.altervista.org/Libri/strang_linear_algebra.pdf) (Highly recommended)
-* Linear Algebra and its Applications (also by G. Strang)
+* [Linear Algebra and its Applications](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf) (also by G. Strang)
 * Elementary Linear Algebra with Applications by Howard A. Anton and Chris Rorres
 
 Help is available online for getting started in Matlab, Octave, Python and R.  If you are using Matlab or Octave, you may find this [help page on Matlab/Octave](http://www.yanivplan.com/matlaboctave-help) useful.
