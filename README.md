@@ -13,7 +13,7 @@ There is no required textbook for this course. Instead there is a set of typed n
 
 If you would like to consult a book you may find these useful:
 
-* [Introduction to Linear Algebra by Gilbert Strang](http://unipicsbooks.altervista.org/Libri/strang_linear_algebra.pdf) (Highly recommended)
+* [Introduction to Linear Algebra by Gilbert Strang](ftp://www.gameol.win:8821/Documents/Math/Introduction%20to%20Linear%20Algebra,%204th%20edition--Gilbert%20Strang%20%E6%B8%85%E6%99%B0%E6%89%AB%E6%8F%8F%E7%89%88.PDF) (Highly recommended)
 * [Linear Algebra and its Applications](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf) (also by G. Strang)
 * Elementary Linear Algebra with Applications by Howard A. Anton and Chris Rorres
 
